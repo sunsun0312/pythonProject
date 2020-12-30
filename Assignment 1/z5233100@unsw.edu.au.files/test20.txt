@@ -1,0 +1,20 @@
+Let us really be systematic!
+
+"Sir Emma, I and Sir Lillian are Knights," said Sir Sofia. "I, Sir Sofia and Sir Natalie are Knights," said Sir Lillian. "Sir Lillian, Sir Claire and I are Knights," said Sir Natalie. "Sir Natalie, Sir Claire and Sir Allison are Knights," said Sir Claire.
+
+Sir Elise said: "Sir Esther or I is a Knight." Sir Esther said: "I or Sir Lauren is a Knight." Sir Lauren said: "Sir Isabel or Sir Lauren is a Knight." Sir Isabel said: "Sir Margaret or Sir Elise is a Knight."
+
+Let us not forget Sir Allison, who claimed that "at least one of us is a Knight" at some point. Sir Isabel said the opposite, namely, that "all of us are Knaves."
+
+What about Sir Claire, who asserted: "exactly one of Sir Margaret, I and  Sir Isabel is a Knight" with great confidence? And what about Sir Lauren, who asserted: "exactly one of I, Sir Sofia, Sir Natalie and Sir Margaret is a Knave" also with great confidence?
+
+That is  not  all. There is  more.
+
+There is Sir Claire who told everyone that "at most one of Sir Natalie, Sir Margaret and Sir Elise is a Knight."
+
+
+
+That still was not quite systematic, but there could be a unique solution.
+
+
+

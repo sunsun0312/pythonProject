@@ -1,0 +1,3 @@
+"Sir Jack or I is a Knight," said Sir Jimmy.
+"Sir Jimmy or I is a Knave," said Sir Jack.
+So what?

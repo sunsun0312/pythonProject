@@ -1,0 +1,2 @@
+There is only one Knight in this puzzle, namely Sir Tri, who
+indeed said: "I am a Knight." But is he really a Knight?
